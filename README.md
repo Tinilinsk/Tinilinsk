@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Artyom
+# 👋 Hi, I’m Artiom
 
 - 👀 I’m interested in programming, game development, robotics, and a bit of business.  
 - 🌱 Currently improving my skills in **PHP**, **PYTHON**, **MySQL**, and **JavaScript**.  
